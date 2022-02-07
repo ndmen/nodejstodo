@@ -1,5 +1,5 @@
 # nodejstodo
-This is Todo Backend application on Node, Express and Postgres
+This is Todo application on Node, Express and Postgres
 
 You can send requests:<br/>
 
