@@ -1,2 +1,2 @@
 # nodejstodo
-Backend on Node, Express, Postgres
+Todo Backend on Node, Express and Postgres
